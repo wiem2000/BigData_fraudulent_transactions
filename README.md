@@ -12,7 +12,7 @@ The dataset "fraud transactions dataset" is accessible on [Kaggle](https://www.k
 - Transaction category (e.g., food, entertainment, etc.)
 - Personal information of the cardholder (first name, last name, gender, address, city, state, zip code, date of birth, occupation)
 - Fraud indicator (1 for fraud, 0 for legitimate)
-
+- 
 ## Processing Pipeline
 ### Lambda Architecture
 #### Batch Processing
@@ -51,7 +51,8 @@ The dataset "fraud transactions dataset" is accessible on [Kaggle](https://www.k
   - **Ironton: 13 fraudulent transactions**
 
 ## Project Usage
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/wiem2000/BigData_fraudulent_transactions.git
    ```
+## Visualization
