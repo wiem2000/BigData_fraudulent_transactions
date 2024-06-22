@@ -56,3 +56,5 @@ The dataset "fraud transactions dataset" is accessible on [Kaggle](https://www.k
    git clone https://github.com/wiem2000/BigData_fraudulent_transactions.git
    ```
 ## Visualization
+**Dashboard link**: 
+**Demo link** : https://drive.google.com/file/d/125qUtlNldyzjKP0dIdNxySRzoc-gVeF6/view?usp=drivesdk
